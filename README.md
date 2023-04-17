@@ -1,8 +1,13 @@
-# Hi, I'm Daniel! 👋
-  
-With years of experience under my belt 💪, I'm bringing a variety of skills at writing code 💻, designing efficient CI/CD pipelines 🚀, and constructing reliable infrastructure 🛠️.
+### 👋 Hey, it's me, Daniel!
 
-If you have a challenging project that could use my skills, let's connect! 🤗 I'm always open to new opportunities.
+- 👨‍💻 Skilled software developer with expertise in designing and implementing robust CI/CD pipelines.
+- 🔧 Experience in building infrastructure in private and public clouds using virtualization and - container orchestration tools like Kubernetes.
+- 🚀 Passion for software development and automation to continuously explore new ways to optimize and streamline development processes.
+- 💡 Strong understanding of the latest industry trends and best practices.
+- 👍 Committed to delivering high-quality solutions that meet the unique needs of each project.
+- 💻 Available to help with CI/CD pipeline design, software development, or infrastructure.
+
+### 🤝 Let's collaborate to achieve your goals and take your project to the next level!
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![XING][xing-shield]][xing-url]
