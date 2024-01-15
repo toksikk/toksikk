@@ -1,6 +1,6 @@
 ## 👨‍💻 Experienced Software Developer | CI/CD Expert | Cloud Infrastructure Architect
 
-Welcome to my GitHub profile! I am a results-driven software developer and DevOps engineer with a proven track record in designing and implementing robust CI/CD pipelines. My expertise extends to building scalable infrastructure in private and public clouds using virtualization and container orchestration tools, such as Proxmox VE or Kubernetes.
+Welcome to my GitHub profile! I am a results-driven software developer and DevOps engineer with a proven track record in designing and implementing robust CI/CD pipelines. My expertise extends to building scalable infrastructure in private and public clouds using virtualization and container orchestration tools, such as Proxmox VE or Kubernetes. I am proud to hold certifications as a Certified Kubernetes Administrator (CKA), Certified Kubernetes Application Developer (CKAD), and Certified Kubernetes Security Specialist (CKS), further showcasing my proficiency in orchestrating and securing containerized applications within Kubernetes environments.
 
 ### 🔧 Tech Stack:
 
