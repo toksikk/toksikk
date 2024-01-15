@@ -1,13 +1,33 @@
-### 👋 Hey, it's me, Daniel!
+## 👨‍💻 Experienced Software Developer | CI/CD Expert | Cloud Infrastructure Architect
 
-- 👨‍💻 Skilled software developer with expertise in designing and implementing robust CI/CD pipelines.
-- 🔧 Experience in building infrastructure in private and public clouds using virtualization and - container orchestration tools like Kubernetes.
-- 🚀 Passion for software development and automation to continuously explore new ways to optimize and streamline development processes.
-- 💡 Strong understanding of the latest industry trends and best practices.
-- 👍 Committed to delivering high-quality solutions that meet the unique needs of each project.
-- 💻 Available to help with CI/CD pipeline design, software development, or infrastructure.
+Welcome to my GitHub profile! I am a results-driven software developer and DevOps engineer with a proven track record in designing and implementing robust CI/CD pipelines. My expertise extends to building scalable infrastructure in private and public clouds using virtualization and container orchestration tools, such as Proxmox VE or Kubernetes.
 
-### 🤝 Let's collaborate to achieve your goals and take your project to the next level!
+### 🔧 Tech Stack:
+
+- **Languages:** Proficient in Golang, Python, and TypeScript, and adaptable to learning new languages as the project demands
+- **DevOps:** Docker, Kubernetes, GitHub Actions, GitLab CI
+- **Cloud:** Certified in AWS, but open for other cloud providers or on-prem as well
+- **Tools:** Git, Terraform, Ansible, GitOps, Argo Suite, Grafana, Prometheus
+
+*This is just a glimpse of my technology stack. For a comprehensive list and to learn more about my capabilities, feel free to reach out.*
+
+### 🚀 What I Bring to the Table:
+
+- Passion for software development and automation.
+- Continuous exploration of new ways to optimize and streamline development processes.
+- Strong understanding of the latest industry trends and best practices.
+
+### 👍 My Commitment:
+
+I am committed to delivering high-quality solutions tailored to meet the unique needs of each project. Let's collaborate to achieve your goals and take your project to the next level!
+
+### 💻 How I Can Help:
+
+- CI/CD Pipeline Design
+- Software Development
+- Cloud Infrastructure Architecture
+
+### 🤝 Let's Connect:
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![XING][xing-shield]][xing-url]
